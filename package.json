@@ -1,7 +1,7 @@
 {
     "name": "yangjunlong",
-    "description": "Yang Junlong's personal resume",
-    "version": "0.0.2",
+    "description": "杨军龙的个人简历",
+    "version": "0.0.3",
     "main": "resume.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,15 +20,15 @@
         "简历"
     ],
     "bugs": {
-        "url": "https://github.com/crossyou/resume/issues"
+        "url": "https://github.com/yangjunlong/resume/issues"
     },
     "author": {
-        "name": "sobird"
+        "name": "yangjunlong"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/crossyou/resume/blob/master/LICENSE"
+            "url": "https://github.com/yangjunlong/resume/blob/master/LICENSE"
         }
     ],
     "readme": "",
