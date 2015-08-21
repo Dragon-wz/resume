@@ -6,8 +6,11 @@
 > There is only one heroism in the world：to see the world as it is and to love it.
 
 ## 自我介绍
-> 拥有五年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn,git工具。
-> 目前因个人职业发展原因，最近准备从`百度辞职`，求各路大神掳走~
+> 拥有五年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
+
+> 目前因个人职业发展原因，最近准备从`百度辞职`，跪求大神掳走~
+
+> `世界那么大，我想去看看`
 
 ## 个人信息
 姓名：杨军龙
@@ -18,7 +21,7 @@
 
 爱好：不求甚解的阅读，心无旁骛的工作，情不自禁的去爱，说走就坐车的旅行...
 
-做过：摄影，骑行，搭讪，醉酒，下厨房，放风筝，读书，看电影，修数码产品...
+做过：[读书](http://thing.douban.com/subject/759/)，[放风筝](http://thing.douban.com/subject/38/)，[摄影](http://www.douban.com/thing/185/)，[骑行](http://www.douban.com/thing/102/)，[搭讪](http://www.douban.com/thing/198/)，[做梦](http://thing.douban.com/subject/556/)，[下厨房](http://www.douban.com/thing/2035/)，[看电影](http://www.douban.com/thing/237/)，[修数码产品](http://www.douban.com/thing/2121/)...
 
 职业：`前端开发工程师`
 
@@ -35,6 +38,16 @@
 
 `2010.7` ~ `2011.4` [普加](http://www.pujia.com/)
 > 负责公司Javascript开发,公司门户页面交互效果的实现，PHP程序开发~
+
+## 个人能力
+* `具有连续加班到晚11点20天+的经历&能力`。
+* 熟悉使用 javascript,html,css 开发,能够精确实现 UE 图稿到交互页面。
+* 熟悉 tangram,jQuery,Bootstrap,zepto 等业界基础库,了解 ReactJs、AngularJs 等。
+* 熟悉基于 FIS 架构前端开发,具有通过该解决方案快速构造重交互页面的能力。
+* 熟悉 PHP 语言, 对于前端常见错误问题具有快速定位解决问题的能力。
+* 熟悉 nodejs,npm 包开发与发布, 熟练使用 git 和 svn 等基础工具。
+* 具有团队文档平台建设经验, 对前端开发代码规范化,平台化,工具化有一定的探索能力。
+
 
 ## 项目经历
 **百度经验前端性能优化**(2015.6 ~ 2015.7)
@@ -109,13 +122,19 @@
 博客：[http://sobird.me](http://sobird.me)
 
 ## 最后
-如果你觉得我的简历还不错的话，可以加我的微信
+如果你觉得我的简历还不错的话，欢迎加我微信好友
 
-<img src="_/wechat.jpg" alt="我的微信" title="加我微信吧~" width="250px" />
+<img src="_/wechat.jpg" alt="微信加好友" title="微信加好友~" width="250px" />
 
 或者，通过支付宝打赏我
 
-<img src="_/alipay.jpg" alt="我的微信" title="加我微信吧~" width="250px" />
+<img src="_/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
+
+又或者，你跟我很熟？
+
+<img src="_/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
+
+那么，请`速扩散`此`简历`~
 
 ## 致谢
 在此向所有求职过程中帮助过我的小伙伴们表示感谢！
