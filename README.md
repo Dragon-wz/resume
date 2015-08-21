@@ -8,7 +8,7 @@
 ## 自我介绍
 > 拥有五年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
 
-> 目前因个人职业发展原因，最近准备从`百度辞职`，跪求大神掳走~
+> 目前因个人职业发展原因，近期准备从`百度辞职`，跪求大神掳走~
 
 > `世界那么大，我想去看看`
 
@@ -123,15 +123,15 @@
 ## 最后
 如果你觉得我的简历还不错的话，欢迎加我微信好友
 
-<img src="_/wechat.jpg" alt="微信加好友" title="微信加好友~" width="250px" />
+<img src="https://github.com/yangjunlong/resume/blob/master/_/wechat.jpg" alt="微信加好友" title="微信加好友~" width="250px" />
 
 或者，通过支付宝打赏我
 
-<img src="_/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
+<img src="https://github.com/yangjunlong/resume/blob/master/_/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
 
 又或者，你跟我很熟？
 
-<img src="_/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
+<img src="https://github.com/yangjunlong/resume/blob/master/_/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
 
 那么，请`速扩散`此`简历`~
 
